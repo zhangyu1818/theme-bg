@@ -2,6 +2,7 @@
   "name": "theme-bg",
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://github.com/zhangyu1818/theme-bg",
   "main": "./dist/index.cjs",
   "types": "./dist/index.d.ts",
   "exports": {
